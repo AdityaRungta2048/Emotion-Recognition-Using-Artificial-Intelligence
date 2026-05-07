@@ -18,9 +18,9 @@ This project is perfect for academic demonstrations and AI mini-projects.
 
 1. Uses a pretrained CNN model loaded from:
 
-   a. model.json — model architecture
+   a. model_1.json — model architecture
 
-   b. model.h5 — model weights
+   b. model_1.h5 — model weights
 
 Predictions mapped to labeled emotions:
 
